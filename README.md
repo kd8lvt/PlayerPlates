@@ -2,7 +2,7 @@
 A Spigot plugin to make player-only pressure plates
 
 # How to make a PlayerPlate
-Place a clay block underneath a weighted pressure plate (iron pressure plate)
+Place a clay block underneath a weighted (iron) pressure plate
 
 # How to install
 1. Download the plugin from our releases tab
