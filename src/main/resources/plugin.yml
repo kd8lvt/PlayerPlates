@@ -1,0 +1,4 @@
+name: PlayerPlates
+version: ${project.version}
+main: kd8lvt.playerplates.PlayerPlates
+authors: [kd8lvt]
